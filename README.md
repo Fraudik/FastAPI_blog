@@ -16,6 +16,7 @@ To stop running the app, press CTRL+C
   2. Use command ```docker-compose -f docker-compose.local.yml up -d```
   (it can take some time)
 
+##
 
 After this you can visit http://localhost:8001/ or http://127.0.0.1:8001/
 Also documentation is available at /docs (http://.../docs)
