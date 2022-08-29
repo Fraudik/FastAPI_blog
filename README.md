@@ -1,2 +1,2 @@
-# FastAPI_blogs
-Asynchronous blogs backend with FastAPI and PostgreSQL
+# FastAPI_blog
+Asynchronous blog backend with FastAPI and PostgreSQL
