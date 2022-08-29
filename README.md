@@ -5,10 +5,11 @@ Asynchronous blog backend with FastAPI and PostgreSQL
 
 ### Manually
   1. Move to /app directory (cd app)
-  2. Use command ```poetry install```
+  2. Use command ```poetry install``` 
   (you can install poetry with pip or another way: https://python-poetry.org/docs/#installation)
-  3.1. For Windows users use command ```poetry run python data/main.py``` 
-  3.2. For Unix users use command ```poetry run ./run.sh```
+ 
+ + For Windows users use command ```poetry run python data/main.py``` 
+  + For Unix users use command ```poetry run ./run.sh```
 To stop running the app, press CTRL+C
 
 ### With Docker
