@@ -19,4 +19,5 @@ To stop running the app, press CTRL+C
 ##
 
 After this you can visit http://localhost:8001/ or http://127.0.0.1:8001/
+
 Also documentation is available at /docs (http://.../docs)
