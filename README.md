@@ -1,5 +1,5 @@
 # FastAPI_blog
-Asynchronous blog backend with FastAPI and PostgreSQL
+Weblog backend with FastAPI and PostgreSQL
 
 ## Setup and launch
 
