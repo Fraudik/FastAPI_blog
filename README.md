@@ -13,7 +13,7 @@ To stop running the app, press CTRL+C
 
 ### With Docker
   1. First install Docker: https://www.docker.com/
-  2. Use command ```docker-compose -f docker-compose.local.yml up -d```
+  2. Use command ```docker-compose up -d```
   (it can take some time)
 
 ##
