@@ -1,4 +1,6 @@
 #!/bin/sh
+# Copyright (c) 2022 Fraudik (Blinov Ilya)
+
 
 # -- Create actual revision (run only once to avoid redundant revisions)
 # -- Run inside container for prepared db url
