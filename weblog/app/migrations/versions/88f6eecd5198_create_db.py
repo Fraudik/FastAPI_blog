@@ -8,7 +8,7 @@ Create Date: 2022-09-02 20:26:53.261275
 from alembic import op
 import sqlalchemy as sa
 
-
+# Copyright (c) 2022 Fraudik (Blinov Ilya)
 # revision identifiers, used by Alembic.
 revision = '88f6eecd5198'
 down_revision = None
