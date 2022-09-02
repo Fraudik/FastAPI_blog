@@ -1,3 +1,5 @@
+# Copyright (c) 2022 Fraudik (Blinov Ilya)
+
 from __future__ import with_statement
 
 from alembic import context
