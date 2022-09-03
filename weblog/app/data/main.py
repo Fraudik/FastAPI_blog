@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 import uvicorn
 
 from fastapi import FastAPI, APIRouter

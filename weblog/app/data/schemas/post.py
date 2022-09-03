@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 from typing import Sequence, Optional
 from pydantic import BaseModel
 from datetime import datetime

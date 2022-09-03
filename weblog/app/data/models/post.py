@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 from sqlalchemy import Column, Integer, DateTime, String, Text, ForeignKey
 from sqlalchemy.orm import relationship
 

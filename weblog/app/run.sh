@@ -1,10 +1,12 @@
 #!/bin/sh
-# Copyright (c) 2022 Fraudik (Blinov Ilya)
 
+#
+# Copyright (c)  2022 Fraudik (Blinov Ilya)
+#
 
 # -- Create actual revision (run only once to avoid redundant revisions)
 # -- Run inside container for prepared db url
-# alembic revision --autogenerate -m 'Create DB'
+alembic revision --autogenerate -m 'Create DB'
 
 # -- Apply revisions
 alembic upgrade head

@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 from pydantic import BaseSettings, EmailStr
 
 from passlib.context import CryptContext

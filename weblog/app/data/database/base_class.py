@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 import typing
 
 from sqlalchemy.ext.declarative import as_declarative, declared_attr

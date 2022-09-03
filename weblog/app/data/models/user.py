@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 from sqlalchemy import Integer, String, Column, Boolean
 from sqlalchemy.orm import relationship
 

@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 from sqlalchemy.orm import Session
 
 from datetime import datetime

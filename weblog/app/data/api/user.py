@@ -1,3 +1,5 @@
+#  Copyright (c)  2022 Fraudik (Blinov Ilya)
+
 from typing import Any
 
 from fastapi import APIRouter, Depends, HTTPException
