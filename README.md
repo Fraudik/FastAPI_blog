@@ -1,6 +1,16 @@
 # FastAPI_blog
 Weblog backend with FastAPI and PostgreSQL
 
+Made with:
+  - FastAPI
+  - PostgreSQL
+  - Pydantic
+  - SQLAlchemy
+  - Docker
+  - Alembic
+  - Poetry
+ 
+
 ## Setup and launch (requires Docker)
 
   1. Move to directory with docker-compose.yml
