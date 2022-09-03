@@ -1,5 +1,7 @@
 # FastAPI_blog
-Weblog backend with FastAPI and PostgreSQL
+Weblog backend
+
+#### Author: Blinov Ilya (Fraudik)
 
 Made with:
   - FastAPI
@@ -26,3 +28,6 @@ How to stop:
 After launching you can visit http://localhost:8001/ or http://127.0.0.1:8001/
 
 Documentation is available at /docs (http://.../docs) or /redoc.
+
+## Swagger screenshot (/docs)
+![alt text](https://github.com/Fraudik/FastAPI_blog/blob/stable/docs_example/swagger_screenshot.jpg)
